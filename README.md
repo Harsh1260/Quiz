@@ -17,7 +17,7 @@ The **Quiz App** is a web-based application designed to provide an interactive q
 ## Live Demo
 
 You can access the deployed version of the Quiz App here:
-**[Live on Vercel](http://192.168.45.73:5173/)**
+**[Live on Vercel](http://192.168.29.141:5173/)**
 
 ## Installation & Running Locally
 
