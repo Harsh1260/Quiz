@@ -12,7 +12,7 @@ The **Quiz App** is a web-based application designed to provide an interactive q
 - **Timer Support**: Keeps track of the time for each quiz session.
 - **Score Tracking**: Displays quiz scores at the end of each session.
 - **Easy Navigation**: User-friendly interface for a smooth experience.
-- **Deployment on Vercel**: Live and fast-loading version hosted on Vercel.
+- **Deployment on Netlify**: Live and fast-loading version hosted on Vercel.
 
 ## Live Demo
 
